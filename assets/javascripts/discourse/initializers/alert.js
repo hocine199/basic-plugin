@@ -1,6 +1,6 @@
 export default {
     name : 'alert',
     initialize(){
-        console.log("Basich plugin in test mode")
+        console.log("Basic plugin in test mode")
     }
 }
