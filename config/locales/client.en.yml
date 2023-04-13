@@ -1,4 +1,5 @@
 en:
   js:
-    discourse_plugin_name:
-      placeholder: placeholder
+    first_basic_plugin:
+      title: "First basic plugin"
+      show: "Show purple tentacle"

@@ -1,0 +1,14 @@
+{{#if basicPluginVisible}}
+<div class="basicPlugin">
+    <img src="https://eviltrout.com/images/tentacle.gif" >
+</div>
+{{/if}}
+
+<div class="buttons">
+    <DButton
+        @label="basicPlugin.show"
+        @action={{action "showBasicPlugin"}}
+        @icon="eye"
+        @id="show-BasicPlugin"
+    >
+</div>
