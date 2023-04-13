@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-# name: discourse-plugin-name
+# name: discourse-plugin-basic
 # about: TODO
 # version: 0.0.1
 # authors: Hocine Mahmoudi
