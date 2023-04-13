@@ -1,4 +1,8 @@
 plugins:
-  plugin_name_enabled:
+  first_Basic_Plugin_enabled:
     default: true
     client: true
+  custom_field:
+    default: 'tst'
+    client: true
+  
